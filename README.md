@@ -1,1 +1,2 @@
-# homework-6
+# Weather App
+

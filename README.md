@@ -4,4 +4,4 @@
 
 ## Breakdown:
 
-Simple weather app utilizing the Open Weather API, JS and jQuery to store and display user's city entry to show current weather and temperature toggle between Celsius and Fahrenheit.
+Simple weather app utilizing the Open Weather API, JS and jQuery to store and display user's city entry to show current weather and temperature toggle between Celsius and Fahrenheit, also included air pressure and humidity.
